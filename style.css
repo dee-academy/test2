@@ -1,0 +1,6 @@
+.gradient{
+    height: 100vh;
+
+    background-image:radial-gradient(rgba(128, 128, 128, 0.423),rgba(128, 128, 128, 0.423)) , url(./images/facebook.svg.png);
+}
+
